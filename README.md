@@ -7,4 +7,6 @@ The "Gliosarcoma" folder contains data, R code and R markdown documents to repro
 
 The "Osteosarcoma" folder contains data, R code and R markdown documents to reproduce the osteosarcoma analysis in Baldé and Ghosh (2023).
 
+The "Simulation" folder contains R code and R markdown documents to reproduce the simulation study.
+
 
